@@ -17,6 +17,8 @@ LogClient is a program designed by Okan DÜZYEL for logging internet connection 
 
       <img width="328" alt="Screenshot 2024-02-29 at 16 38 08" src="https://github.com/okanduzyel/LogClient/assets/38145537/6e8e6135-045b-44c2-a94c-43bdc1f40e75">
 
+    - If you allow the program, It will run like:
+
       <img width="724" alt="Screenshot 2024-02-29 at 16 11 07" src="https://github.com/okanduzyel/LogClient/assets/38145537/fb8d2c1d-f099-43cc-b477-1b7c342251f7">
 
 2. **Registration:**
