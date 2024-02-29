@@ -66,7 +66,3 @@ Feel free to adjust the instructions based on the specific details of your progr
 Feel free to adjust the instructions based on the specific details of your program and directory structure.
 
 
-## Requirements
-
-- Python 3.x
-- Dependencies: See `requirements.txt`
