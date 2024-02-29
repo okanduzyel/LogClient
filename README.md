@@ -19,12 +19,12 @@ LogClient is a program designed for logging internet connection status and progr
 2. **Registration:**
     - Students send their MAC address and student number to the teacher via Microsoft Teams.
     - The teacher provides a unique activation code to the student.
-  
-      
 
 3. **Activation:**
     - Students enter their student number and the provided activation code.
     - The program creates a `license.dat` file for future use.
+  
+      <img width="731" alt="Screenshot 2024-02-29 at 16 16 49" src="https://github.com/okanduzyel/LogClient/assets/38145537/d325f96f-acb2-43f8-bc03-463857750317">
 
 ## Usage
 
