@@ -60,7 +60,7 @@ Once registered and activated, the program continuously logs internet connection
 
 ## Instructions for Students
 
-Before lab time:
+Before lab section, you should:
 
 1. Close your internet connection (Wi-Fi, Ethernet, Bluetooh etc.) before running LogClient.
 2. Open LogClient.
