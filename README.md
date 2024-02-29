@@ -1,6 +1,6 @@
 # LogClient
 
-LogClient is a program designed by Okan DÜZYEL for logging internet connection status and program activities on individual computers during lab sections. It is meant for students, and each installation requires a unique registration based on the computer's MAC address.
+LogClient is designed by Okan DÜZYEL for logging internet connection status and program activities on individual computers during lab sections. It is meant for students, and each installation requires a unique registration based on the computer's MAC address.
 
 ## Features
 
