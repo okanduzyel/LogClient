@@ -50,7 +50,7 @@ Once registered and activated, the program continuously logs internet connection
 
 3. **For Windows**
 
-- Extract the zip file in your user directory, for example, "C:\Users\MyName\Desktop\" (replace MyName with your username). Please avoid using another directory.
+- Extract the zip file to your user directory, for example, "C:\Users\MyName\Desktop\" (replace MyName with your username). Please avoid using another directory.
 
    ![WhatsApp Image 2024-02-29 at 16 20 58](https://github.com/okanduzyel/LogClient/assets/38145537/3fabe2be-123c-475e-918a-3c2e97757246)
 
