@@ -46,8 +46,6 @@ Once registered and activated, the program continuously logs internet connection
 
 - While the program is running, it will generate a new log file named with the student number, day, month, and year.
 
-Feel free to adjust the instructions based on the specific details of your program and directory structure.
-
 2. **For Linux**
 
 3. **For Windows**
@@ -60,6 +58,5 @@ Feel free to adjust the instructions based on the specific details of your progr
 
 - While the program is running, it will generate a new log file named with the student number, day, month, and year.
 
-Feel free to adjust the instructions based on the specific details of your program and directory structure.
 
 
