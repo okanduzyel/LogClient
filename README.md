@@ -23,7 +23,7 @@ LogClient is designed by Okan DÜZYEL for logging internet connection status and
     - The Assistant provides a unique activation code to the student.
 
 4. **Activation:**
-    - The student enter its student number and the provided activation code.
+    - The student should enter its student number and the provided activation code.
     - The program creates a `license.dat` file for future use.
   
       <img width="731" alt="Screenshot 2024-02-29 at 16 16 49" src="https://github.com/okanduzyel/LogClient/assets/38145537/d325f96f-acb2-43f8-bc03-463857750317">
