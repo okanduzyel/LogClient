@@ -48,6 +48,8 @@ Once registered and activated, the program continuously logs internet connection
 
 2. **For Linux**
 
+Coming Soon!
+
 3. **For Windows**
 
 - Extract the zip file to your user directory, for example, "C:\Users\MyName\Desktop\" (replace MyName with your username). Please avoid using another directory.
