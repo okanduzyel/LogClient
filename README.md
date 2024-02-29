@@ -14,7 +14,7 @@ LogClient is a program designed for logging internet connection status and progr
     - On the first run, the program displays the MAC address of the computer.
     - Students must run the program only on their personal computers.
       
-      <img width="724" alt="Screenshot 2024-02-29 at 16 11 07" src="https://github.com/okanduzyel/LogClient/assets/38145537/9f6cd2a0-8a3e-4841-96a0-b1a6f7450365">
+      <img width="724" alt="Screenshot 2024-02-29 at 16 11 07" src="https://github.com/okanduzyel/LogClient/assets/38145537/fb8d2c1d-f099-43cc-b477-1b7c342251f7">
 
 2. **Registration:**
     - Students send their MAC address and student number to the teacher via Microsoft Teams.
