@@ -59,5 +59,11 @@ Once registered and activated, the program continuously logs internet connection
 
 - While the program is running, it will generate a new log file named with the student number, day, month, and year.
 
+## Instructions for Students
 
+Before lab time:
 
+1. Close your internet connection (Wi-Fi, Ethernet, Bluetooh etc.) before running LogClient.
+2. Open LogClient.
+3. Do not close and do not try to connect internet during lab section.
+4. After getting grade of lab, close LogClient, connect internet, and upload you .c file and your log file to Microsoft Teams Assignments section. 
