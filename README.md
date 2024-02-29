@@ -8,7 +8,7 @@ LogClient is a program designed for logging internet connection status and progr
 - Records program activities with timestamps.
 - Requires one-time registration for each computer using a unique activation code.
 
-## Registration and Activation (macOS, Windows and Linux)
+## Registration and Activation (macOS, Windows, and Linux)
 
 1. **First Run:**
     - On the first run, the program displays the MAC address of the computer.
