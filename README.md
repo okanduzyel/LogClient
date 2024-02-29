@@ -28,8 +28,6 @@ Once registered and activated, the program continuously logs internet connection
 
 ## For macOS
 
-## For macOS
-
 1. Extract the zip file in your user directory, for example, "/Users/XXXXXXXXXX" (replace XXXXXXXXXX with your username). Please avoid using another directory.
 
    <img width="408" alt="Screenshot 2024-02-29 at 16 02 42" src="https://github.com/okanduzyel/LogClient/assets/38145537/ab7370b2-24db-452d-a39c-8cdcaa812235">
