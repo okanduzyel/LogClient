@@ -5,7 +5,7 @@ LogClient is designed by Okan DÜZYEL for logging internet connection status and
 ## Features
 - Requires one-time registration for each computer **using a unique activation code.**
 - Logs internet connection status (Connected/Disconnected).
-- Program Records activities and timestamps **with cryptographic output.**
+- Program records activities and timestamps **with cryptographic output.**
 
 ## Registration and Activation (macOS, Windows, and Linux)
 
