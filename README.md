@@ -19,7 +19,7 @@ LogClient is designed by Okan DÜZYEL for logging internet connection status and
       <img width="724" alt="Screenshot 2024-02-29 at 16 11 07" src="https://github.com/okanduzyel/LogClient/assets/38145537/fb8d2c1d-f099-43cc-b477-1b7c342251f7">
 
 3. **Registration:**
-    - Student should send their MAC address and student number to the Assistant via Microsoft Teams.
+    - The student should send their MAC address and student number to the Assistant via Microsoft Teams.
     - The Assistant provides a unique activation code to the student.
 
 4. **Activation:**
