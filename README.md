@@ -28,7 +28,7 @@ LogClient is designed by Okan DÜZYEL for logging internet connection status and
   
       <img width="731" alt="Screenshot 2024-02-29 at 16 16 49" src="https://github.com/okanduzyel/LogClient/assets/38145537/d325f96f-acb2-43f8-bc03-463857750317">
       
-    - If the student give wrong Mac address or wrong student number the program will recognize it and create the output as below. 
+    - If the student gives wrong Mac address or wrong student number the program will recognize it and create the output as below. 
   
       <img width="682" alt="Screenshot 2024-02-29 at 16 21 56" src="https://github.com/okanduzyel/LogClient/assets/38145537/5d1bbe8d-eac2-4fcc-be5f-14121575abed">
 
