@@ -36,9 +36,9 @@ Once registered and activated, the program continuously logs internet connection
 
 1. **For macOS**
 
-- Extract the zip file in your user directory, for example, "C:\Users\MyName\Desktop\" (replace MyName with your username). Please avoid using another directory.
-
-   ![WhatsApp Image 2024-02-29 at 16 20 58](https://github.com/okanduzyel/LogClient/assets/38145537/3fabe2be-123c-475e-918a-3c2e97757246)
+- Extract the zip file in your user directory, for example, "/Users/XXXXXXXXXX" (replace XXXXXXXXXX with your username). Please avoid using another directory.
+  
+   <img width="420" alt="Screenshot 2024-02-29 at 16 34 22" src="https://github.com/okanduzyel/LogClient/assets/38145537/26a049de-076d-43b0-8edd-692f37f0aa1b">
 
 - The `license.dat` file will be automatically created during the extraction process.
 
@@ -50,6 +50,15 @@ Feel free to adjust the instructions based on the specific details of your progr
 
 3. **For Windows**
 
+- Extract the zip file in your user directory, for example, "C:\Users\MyName\Desktop\" (replace MyName with your username). Please avoid using another directory.
+
+   ![WhatsApp Image 2024-02-29 at 16 20 58](https://github.com/okanduzyel/LogClient/assets/38145537/3fabe2be-123c-475e-918a-3c2e97757246)
+
+- The `license.dat` file will be automatically created during the extraction process.
+
+- While the program is running, it will generate a new log file named with the student number, day, month, and year.
+
+Feel free to adjust the instructions based on the specific details of your program and directory structure.
 
 
 ## Requirements
