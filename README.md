@@ -13,7 +13,7 @@ LogClient is a program designed by Okan DÜZYEL for logging internet connection 
 1. **First Run:**
     - On the first run, the program displays the MAC address of the computer.
     - Students must run the program only on their personal computers.
-    - The first run, This error will be appear. You must allow the program Settings -> Privacy & Security -> LogClient Allow.
+    - The first run, This error will be appear. You must allow the program **Settings -> Privacy & Security -> LogClient Allow.**
 
       <img width="328" alt="Screenshot 2024-02-29 at 16 38 08" src="https://github.com/okanduzyel/LogClient/assets/38145537/6e8e6135-045b-44c2-a94c-43bdc1f40e75">
 
