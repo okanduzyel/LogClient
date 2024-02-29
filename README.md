@@ -34,7 +34,7 @@ LogClient is designed by Okan DÜZYEL for logging internet connection status and
 
 ## Usage
 
-Once registered and activated, the program continuously logs internet connection status and program activities. It runs in the background and requires no further interaction from the user.
+Once registered and activated, the program continuously logs internet connection status. It runs in the background and requires no further interaction from the user.
 
 1. **For macOS**
 
