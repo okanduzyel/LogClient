@@ -3,10 +3,9 @@
 LogClient is designed by Okan DÜZYEL for logging internet connection status and program activities on individual computers during lab sections. It is meant for students, and each installation requires a unique registration based on the computer's MAC address.
 
 ## Features
-
+- Requires one-time registration for each computer using a unique activation code.
 - Logs internet connection status (Connected/Disconnected).
 - Records program activities and timestamps with cryptographic output.
-- Requires one-time registration for each computer using a unique activation code.
 
 ## Registration and Activation (macOS, Windows, and Linux)
 
