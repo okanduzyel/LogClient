@@ -66,4 +66,4 @@ Before lab time:
 1. Close your internet connection (Wi-Fi, Ethernet, Bluetooh etc.) before running LogClient.
 2. Open LogClient.
 3. Do not close LabClient, and do not try to connect internet during lab section.
-4. After getting grade of lab, close LogClient, connect internet, and upload your .c file and your log file to Microsoft Teams Assignments section. 
+4. After getting grade of the lab, close LogClient, connect internet, and upload your .c file and your log file to Microsoft Teams Assignments section. 
