@@ -11,21 +11,20 @@ LogClient is a program designed by Okan DÜZYEL for logging internet connection 
 ## Registration and Activation (macOS, Windows, and Linux)
 
 1. **First Run:**
-    - On the first run, the program displays the MAC address of the computer.
-    - Students must run the program only on their personal computers.
+2. 
     - The first run, This error will be appear. You must allow the program **Settings -> Privacy & Security -> LogClient Allow.**
-
       <img width="328" alt="Screenshot 2024-02-29 at 16 38 08" src="https://github.com/okanduzyel/LogClient/assets/38145537/6e8e6135-045b-44c2-a94c-43bdc1f40e75">
 
-    - If you allow the program, It will run like:
+    - If you allow the program, It will run like, On the first run, the program displays the MAC address of the computer.
+    - Students must run the program only on their personal computers.
 
       <img width="724" alt="Screenshot 2024-02-29 at 16 11 07" src="https://github.com/okanduzyel/LogClient/assets/38145537/fb8d2c1d-f099-43cc-b477-1b7c342251f7">
 
-2. **Registration:**
+3. **Registration:**
     - Students send their MAC address and student number to the teacher via Microsoft Teams.
     - The teacher provides a unique activation code to the student.
 
-3. **Activation:**
+4. **Activation:**
     - Students enter their student number and the provided activation code.
     - The program creates a `license.dat` file for future use.
   
