@@ -48,7 +48,7 @@ Once registered and activated, the program continuously logs internet connection
 
 2. **For Linux**
 
-    <u>**Coming Soon!**</u>
+            **Coming Soon!**
 
 3. **For Windows**
 
