@@ -51,6 +51,10 @@ Once registered and activated, the program continuously logs internet connection
 - Download your executable file on your computer and run the program by using the terminal. 
 
 ```
+    sudo apt install unzip
+    git clone https://github.com/okanduzyel/LogClient.git
+    unzip LogClient For Linux.zip
+    ls
     ./LogClient.py
 ```
 
