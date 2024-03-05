@@ -50,7 +50,11 @@ Once registered and activated, the program continuously logs internet connection
 
 - Download your executable file on your computer and run the program by using the terminal. 
 
-./LogClient.py
+```
+    ./LogClient.py
+```
+
+It is working on the Ubuntu 22LTS platform.
 
 3. **For Windows**
 
