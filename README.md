@@ -54,7 +54,7 @@ Once registered and activated, the program continuously logs internet connection
     ./LogClient.py
 ```
 
-It is working on the Ubuntu 22LTS platform.
+It is correctly working on the Ubuntu 22LTS platform.
 
 3. **For Windows**
 
