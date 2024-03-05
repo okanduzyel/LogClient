@@ -48,7 +48,9 @@ Once registered and activated, the program continuously logs internet connection
 
 2. **For Linux**
 
-            **Coming Soon!**
+- Download your executable file on your computer and run the program by using the terminal. 
+
+./LogClient.py
 
 3. **For Windows**
 
